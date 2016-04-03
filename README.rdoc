@@ -4,7 +4,7 @@ Rails API Application for our iOS and Android Front End Blunt App
 
 * Ruby version
 
--20
+-2
 
 * System dependencies
 
